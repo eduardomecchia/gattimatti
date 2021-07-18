@@ -58,11 +58,11 @@ main .cat.container {
   justify-content: center;
   align-items: center;
 }
-main .cat.container .image {
+main .cat.container .image-container .image {
   max-width: 400px;
   margin: 10px 0;
 }
-main .cat.container .image img {
+main .cat.container .image-container .image img {
   max-width: 100%;
   border-radius: 10px;
 }

@@ -6,14 +6,16 @@ main {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        
-        .image {
-            max-width: 400px;
-            margin: 10px 0;
 
-            img {
-                max-width: 100%;
-                border-radius: 10px;
+        .image-container {
+            .image {
+                max-width: 400px;
+                margin: 10px 0;
+    
+                img {
+                    max-width: 100%;
+                    border-radius: 10px;
+                }
             }
         }
     }
