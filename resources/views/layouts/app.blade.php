@@ -11,7 +11,7 @@
 
     <body>
         <!-- Website header -->
-        <header id="site-header">
+        <header id="site-header py-4">
             <nav>
                 <div class="container">
                     <a href="/">Home</a>
@@ -32,5 +32,7 @@
                 <div>Gatti Matti &copy; 2021 Eduardo Mecchia</div>
             </div>
         </footer>
+
+        <script src="{{ asset('js/app.js') }}"></script>
     </body>
 </html>
