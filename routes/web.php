@@ -14,3 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', "PageController@index");
+Route::get("prisk", "PageController@prisk");
+Route::get("zelda", "PageController@zelda");

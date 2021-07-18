@@ -11,7 +11,11 @@
     <body>
         <!-- Website header -->
         <header id="site-header">
-
+            <nav>
+                <a href="/">Home</a>
+                <a href="/prisk">Prisk</a>
+                <a href="/zelda">Zelda</a>
+            </nav>
         </header>
 
         <!-- Website content -->
