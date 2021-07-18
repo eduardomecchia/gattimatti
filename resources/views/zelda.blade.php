@@ -4,7 +4,7 @@
 
 @section("content")
     <div class="container cat">
-        <h1>Hey there, I'm Zelda!</h1>
+        <h1 class="heading">Hey there, I'm Zelda!</h1>
 
         @foreach($photos as $photo)
             <div class="image">

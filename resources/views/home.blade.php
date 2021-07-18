@@ -4,6 +4,6 @@
 
 @section("content")
     <div class="container home">
-        <h1>Welcome to Gatti Matti</h1>
+        <h1 class="heading">Welcome to Gatti Matti</h1>
     </div>
 @endsection
