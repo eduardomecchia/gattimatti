@@ -13,11 +13,17 @@ class PageController extends Controller
 
     public function prisk() 
     {
-        return view("prisk");
+        $allPhotos = config("cats");
+        $photos = $allPhotos["priskPics"];
+
+        return view("prisk", compact("photos"));
     }
 
     public function zelda() 
     {
-        return view("zelda");
+        $allPhotos = config("cats");
+        $photos = $allPhotos["zeldaPics"];
+
+        return view("zelda", compact("photos"));
     }
 }

@@ -48,18 +48,19 @@ main .home.container {
   padding: 50px 0;
 }
 
-/* Prisk page rules */
-main .prisk.container {
+/* Cat pages rules */
+main .cat.container {
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
   padding: 50px 0;
 }
-
-/* Zelda page rules */
-main .zelda.container {
-  display: flex;
-  justify-content: center;
-  padding: 50px 0;
+main .cat.container .image {
+  max-width: 500px;
+}
+main .cat.container .image img {
+  max-width: 100%;
 }
 
 /* Footer rules */

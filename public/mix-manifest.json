@@ -1,6 +1,5 @@
 {
     "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css",
     "/img/prisk_01.jpg": "/img/prisk_01.jpg",
     "/img/prisk_02.jpg": "/img/prisk_02.jpg",
     "/img/prisk_03.jpg": "/img/prisk_03.jpg",
@@ -66,5 +65,6 @@
     "/img/zelda_15.jpg": "/img/zelda_15.jpg",
     "/img/zelda_16.jpg": "/img/zelda_16.jpg",
     "/img/zelda_17.jpg": "/img/zelda_17.jpg",
-    "/img/zelda_18.jpg": "/img/zelda_18.jpg"
+    "/img/zelda_18.jpg": "/img/zelda_18.jpg",
+    "/css/app.css": "/css/app.css"
 }
