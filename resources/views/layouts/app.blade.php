@@ -13,9 +13,11 @@
         <!-- Website header -->
         <header id="site-header">
             <nav>
-                <a href="/">Home</a>
-                <a href="/prisk">Prisk</a>
-                <a href="/zelda">Zelda</a>
+                <div class="container">
+                    <a href="/">Home</a>
+                    <a href="/prisk">Prisk</a>
+                    <a href="/zelda">Zelda</a>
+                </div>
             </nav>
         </header>
 
@@ -26,7 +28,9 @@
 
         <!-- Website footer -->
         <footer id="site-footer">
-            <div>Gatti Matti &copy; 2021 Eduardo Mecchia</div>
+            <div class="container">
+                <div>Gatti Matti &copy; 2021 Eduardo Mecchia</div>
+            </div>
         </footer>
     </body>
 </html>
