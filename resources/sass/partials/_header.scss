@@ -1,8 +1,12 @@
 /* Header rules */
 
 #site-header {
-    padding: 30px 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
     background-color: $theme-color-1;
+    padding: 25px 0;
 
     nav {
         .container {
