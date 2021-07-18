@@ -8,6 +8,7 @@
 
 body {
   font-family: "Nunito", sans-serif;
+  background-color: #f3d250;
 }
 
 .container {
@@ -18,13 +19,15 @@ body {
 a {
   color: black;
   font-size: 1.5rem;
-  transition: 0.25s;
+  transition: 0.2s;
   text-decoration: none;
 }
 a:active {
+  font-weight: bold;
   color: #f78888;
 }
 a:hover {
+  font-weight: bold;
   color: #f3d250;
 }
 
@@ -36,6 +39,27 @@ a:hover {
 #site-header nav .container {
   display: flex;
   justify-content: space-evenly;
+}
+
+/* Homepage rules */
+main .home.container {
+  display: flex;
+  justify-content: center;
+  padding: 50px 0;
+}
+
+/* Prisk page rules */
+main .prisk.container {
+  display: flex;
+  justify-content: center;
+  padding: 50px 0;
+}
+
+/* Zelda page rules */
+main .zelda.container {
+  display: flex;
+  justify-content: center;
+  padding: 50px 0;
 }
 
 /* Footer rules */
