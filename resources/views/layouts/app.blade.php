@@ -9,6 +9,19 @@
     </head>
 
     <body>
-        @yield("content")
+        <!-- Website header -->
+        <header id="site-header">
+
+        </header>
+
+        <!-- Website content -->
+        <main id="page-content">
+            @yield("content")
+        </main>
+
+        <!-- Website footer -->
+        <footer id="site-footer">
+            
+        </footer>
     </body>
 </html>
