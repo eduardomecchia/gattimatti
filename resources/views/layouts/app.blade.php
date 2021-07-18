@@ -25,7 +25,7 @@
 
         <!-- Website footer -->
         <footer id="site-footer">
-            
+            <div>&copy; Eduardo Mecchia 2021</div>
         </footer>
     </body>
 </html>
