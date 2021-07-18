@@ -1,4 +1,17 @@
-@import "partials/variables";
-@import "partials/common";
-@import "partials/header";
-@import "partials/footer";
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'partials/variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Global rules
+@import 'partials/common';
+
+// Header rules 
+@import 'partials/header';
+
+// Footer rules 
+@import 'partials/footer';
