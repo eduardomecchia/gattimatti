@@ -25,7 +25,7 @@
 
         <!-- Website footer -->
         <footer id="site-footer">
-            <div>&copy; Eduardo Mecchia 2021</div>
+            <div>Gatti Matti &copy; 2021 Eduardo Mecchia</div>
         </footer>
     </body>
 </html>
