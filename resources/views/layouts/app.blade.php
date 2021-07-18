@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="{{ asset("css/app.css") }}">
     </head>
 
-    <body>
+    <body class="@yield("bodyClass")">
         <!-- Website header -->
         <header id="site-header">
             <nav>

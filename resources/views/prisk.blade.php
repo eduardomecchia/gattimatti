@@ -2,8 +2,10 @@
 
 @section("title", "Gatti Matti | Prisk")
 
+@section("bodyClass", "prisk")
+
 @section("content")
-    <div class="container cat">
+    <div class="container cat prisk">
         <h1 class="heading">I'm Whiskey! But everybody calls me Prisk...</h1>
 
         <div class="image-container">

@@ -35,6 +35,10 @@ a:hover {
   margin: 40px 0;
 }
 
+main {
+  padding-top: 82px;
+}
+
 /* Header rules */
 #site-header {
   position: fixed;
@@ -68,6 +72,16 @@ main .cat.container .image-container .image {
 main .cat.container .image-container .image img {
   max-width: 100%;
   border-radius: 10px;
+}
+
+/* Prisk-specific rules */
+.prisk {
+  background-color: #5da2d5;
+}
+
+/* Zelda-specific rules */
+.zelda {
+  background-color: #f78888;
 }
 
 /* Footer rules */
