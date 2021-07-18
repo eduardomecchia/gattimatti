@@ -2,4 +2,12 @@
 
 #site-header {
     padding: 30px 0;
+    background-color: $theme-color-1;
+
+    nav {
+        .container {
+            display: flex;
+            justify-content: space-evenly;
+        }
+    }
 }

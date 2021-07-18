@@ -11,7 +11,7 @@
 
     <body>
         <!-- Website header -->
-        <header id="site-header py-4">
+        <header id="site-header">
             <nav>
                 <div class="container">
                     <a href="/">Home</a>
